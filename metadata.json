@@ -1,0 +1,6 @@
+{
+  "name": "Amazon ASIN Bulk Checker",
+  "description": "Bulk Amazon product URL generator and validator with automated status verification and product image detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
